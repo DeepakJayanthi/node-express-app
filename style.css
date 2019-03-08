@@ -1,0 +1,45 @@
+h1{
+   
+    color:blue;
+}
+b{
+    color: wheat;
+}
+body{
+    background-image: url("10942.jpg");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body{
+    color: wheat;
+}
+article{
+    color:wheat;
+    
+}
+
+.container{
+    display: flex;
+    
+}
+
+  aside {
+  color: wheat;
+  
+  }
+  iframe{
+      padding-top : 120px;
+      padding-left: 20px;
+
+  }
+  header{
+      padding-top : 60px;
+      color:wheat;
+      background-color: black;
+  }
+ 
+  footer{
+      color:wheat;
+  }
